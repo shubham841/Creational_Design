@@ -1,0 +1,5 @@
+package com.shubham.structural.decorator;
+
+public abstract class ToppingDecorator extends BasePizza{
+
+}
